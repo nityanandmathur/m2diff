@@ -13,8 +13,16 @@
 
 ```bash
     pip install --upgrade diffusers[torch]
+    pip install transformers
+    pip install accelerate
 ```
+2. Install PyTorch
+
+```
+    conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+```
+
 > Optional: To use Notebooks, install `ipykernel`: 
 ```bash
-pip install ipykernel
+    pip install ipykernel
 ```
