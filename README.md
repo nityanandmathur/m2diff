@@ -14,3 +14,7 @@
 ```bash
     pip install --upgrade diffusers[torch]
 ```
+> Optional: To use Notebooks, install `ipykernel`: 
+```bash
+pip install ipykernel
+```
