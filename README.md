@@ -1,7 +1,7 @@
 # unCLIP
 
 ## Task
-- [] Install unCLIP
+- [x] Install unCLIP
 - [] Try unCLIP
 - [] Find results on cityscape dataset
 - [] Try DDIB
