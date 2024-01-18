@@ -1,7 +1,6 @@
 # unCLIP
 
 ## Task
-
 - [] Install unCLIP
 - [] Try unCLIP
 - [] Find results on cityscape dataset
